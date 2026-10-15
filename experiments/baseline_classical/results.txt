@@ -1,0 +1,9 @@
+Run: baseline_classical (original code, 20000 epochs, H100 MIG 1g.24gb)
+Number of Trainable Parameters:  20604
+	 Best average loss of the last 50 epochs: 0.00001, achieved at epoch 18472
+Last 1000 games:
+   1000 Game won
+Avg moves, last 1000 epochs:
+3
+Walltime: HH:MM:SS (job 35585)
+Walltime: HH:MM:SS (job 35585)
